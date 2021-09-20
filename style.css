@@ -24,6 +24,7 @@ body {
   height: 50px;
   width: 50px;
   transition: 0.2s ease;
+  font-size: 18px;
 }
 .search button {
   position: absolute;
